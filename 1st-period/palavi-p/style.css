@@ -1,76 +1,66 @@
+/* the body where the we put the font family, size and the overall base and keeping the fonts in the center */
 body {
-  font-family: 'Segoe UI', sans-serif;
+  font-family: Garamond, serif;
+  background-color: #ffe4ec; 
+  text-align: center;
   margin: 0;
   padding: 0;
-  background: #ffe6f0;
-  color: #333;
 }
-
-header {
-  background: #ffb6c1; 
-  color: white;
-  padding: 40px 20px;
-  text-align: center;
-}
-
-.about {
-  max-width: 900px;
-  margin: 20px auto;
-  padding: 30px 20px;
-  background-color: #fff0f5;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-}
-
-.projects {
-  max-width: 1000px;
-  margin: 40px auto;
+/* the first container where the outline has been made and changed the background of the container  */
+.container,
+.containerTwo {
+  background: #f3a2be;
   padding: 20px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 50%;
+  margin: 50px auto;
 }
 
-.projects h2 {
-  width: 100%;
-  text-align: center;
-  margin-bottom: 30px;
-  color: #d6336c;
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #4a4a4a;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 }
 
-.project {
-  background: white;
-  padding: 20px;
-  border-radius: 10px;
-  width: 48%;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  box-sizing: border-box;
-  margin-bottom: 20px;
-  transition: transform 0.2s
+label {
+    display: block;
+    margin-top: 10px;
+  font-weight: normal;
+}
+/* just the place where the user will input */
+input {
+    width: 80%;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
 }
 
-.project h3 {
-  margin-top: 0;
-  color: #d6336c;
+button {
+    background: #c6e6e3;
+  color: #6d6875;
+  padding: 10px 15px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
 }
 
-a {
-  color: #d6336c;
-  text-decoration: none;
-  font-weight: bold;
 }
 
-a:hover {
-  text-decoration: underline;
+p {
+    font-size: 18px;
+  margin-top: 15px;
+  padding: 10px;
+  background: #ffd3dd;
+  display: inline-block;
+  border-radius: 5px;
 }
 
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #ffdce5;
-  margin-top: 40px;
-  font-size: 0.9rem;
-}
-.project:hover {
-  transform: translateY(-8px) ;
+button:hover {
+  background-color: #b4dede;
+  color: #495057;
 }
