@@ -31,7 +31,7 @@ A memory matching game built with JavaScript, HTML, and CSS. Users flip cards to
 ### Alphabet Game  
 An educational game designed to help children learn the alphabet, including letter order and differences between uppercase and lowercase letters. This project expanded on previous concepts and applied JavaScript fundamentals creatively.
 
-### Poem and Quote Generator  
+### Random Quote Generator  
 A random quote generator created with JavaScript, allowing users to cycle through different types of quotes. This project was developed with a partner and includes custom styling and dynamic content generation.
 
 ## Links
