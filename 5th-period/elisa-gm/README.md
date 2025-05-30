@@ -36,7 +36,7 @@ A random quote generator created with JavaScript, allowing users to cycle throug
 
 ## Links
 
-- GitHub Repository: [https://github.com/elisamgm/elisamgmFP.GitHub.io]
+- [GitHub Repository](https://github.com/elisamgm/elisamgmFP.GitHub.io)
 - Live Website: [(https://elisamgm.github.io/elisamgmFP.GitHub.io/)]
 
 ---
