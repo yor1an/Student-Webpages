@@ -1,4 +1,3 @@
-
 # Final Portfolio Project
 
 ## About the Developer
