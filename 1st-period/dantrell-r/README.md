@@ -1,30 +1,36 @@
-# Dantrell R
-👋 About Me
+# Dantrell R.
 
-Hi, I'm Dantrell R., a junior in high school with a growing passion for computer science and web development. I started my journey with C++, which gave me a strong foundation in programming logic. Over the past year, I’ve expanded into frontend technologies like HTML, CSS, and JavaScript. I enjoy building interactive web projects and continually pushing myself to learn new skills as I grow as a developer.
+## 👋 About Me
 
-📚 Project Overview
+Hi! I’m Dantrell R., a junior in high school who decided to learn computer science. It has certainly been a challenge learning a range of different languages and applications. I had no knowledge of what it meant to code and the process, then I started learning C++, then I became familiar with key concepts such as variables and what it meant to use HTML, JavaScript, and CSS. This website shows some of my best work.
 
-This portfolio project is the culmination of everything I’ve learned in computer science this school year. It features a collection of my favorite web-based projects, built using core web technologies. Throughout the process, I gained hands-on experience with responsive design, JavaScript interactivity, and structuring clean, readable code. Each project helped me improve my problem-solving skills and taught me how to bring creative ideas to life on the web.
+## 📚 About This Project
 
-🖥️ What's in My Portfolio?
+This project is the culmination of what I’ve learned over the course of the year as a student developer. It showcases my ability to design, build, and deploy a personal portfolio website from scratch. Through this process, I’ve learned how to use GitHub Pages for deployment, write more efficient and structured code, and design user-friendly layouts using CSS Grid and JavaScript interactivity.
 
-My portfolio website acts as a central hub for showcasing my best work. It includes:
+## 🌐 Portfolio Site Overview
 
-An "About Me" section introducing who I am and what I’ve learned
+My portfolio site includes:
 
-Project descriptions and visuals for each featured project
+- A clean homepage with a short introduction
+- An "About Me" section detailing my background and interests in development
+- A featured project gallery built with JavaScript and CSS Grid
+- Links to live projects and GitHub repositories
+- A responsive design that works across different screen sizes
 
-Links to live versions of each project for visitors to explore
+## 🛠️ Featured Projects
 
-🚀 Featured Projects
+- **Analog Clock**  
+  This project was done on CodePen. I utilized features of HTML, CSS, and JavaScript. It is very straightforward. It has a long hand and short hand that represent the hour and minute. Click to view the time!
 
-🕒 Analog Clock A real-time analog clock built with HTML, CSS, and JavaScript. The clock displays the current hour, minute, and second using smooth CSS transformations and real-time updates from JavaScript.
+- **Calculator**  
+  This project is different from the first. Instead of making something to visualize the time, I made something able to compute and work with numbers: addition, subtraction, multiplication, and division. Give it a try!
 
-➗ Calculator A simple, functional calculator that performs basic math operations like addition, subtraction, multiplication, and division. It features button input, live display updates, and a clean, user-friendly design.
+- **Dino Run Game**  
+  This project was completely different from anything I've ever done—it was a whole game. It is inspired by the Google game Dino Run but with its own version with different characters and backgrounds.
 
-🦖 Dino Run Game An endless runner game inspired by the classic Chrome “Dino” game. Players must jump over obstacles as the game speeds up. Built using JavaScript and event listeners, this project demonstrates my understanding of game logic and collision detection.
+## 🔗 Links
 
-📂 Links
-- [Github Repository](https://github.com/koby-riv12/Final-Project)
-- [Live Website](https://koby-riv12.github.io/Final-Project/)
+- **GitHub Repository**: [https://github.com/koby-riv12/Final-Project](https://github.com/koby-riv12/Final-Project)  
+- **Live Site on GitHub Pages**: [https://koby-riv12.github.io/Final-Project/](https://koby-riv12.github.io/Final-Project/)
+
