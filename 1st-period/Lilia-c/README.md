@@ -11,7 +11,6 @@ My portfolio site serves as a personal showcase of my web development work. It i
 - A homepage introducing who I am and what I do
 - A project gallery featuring my best work
 - An about page with more insight into my background and skills
-- 
 ## Featured Projects
 
 ### **Project 1: [Scratch escape school]**
