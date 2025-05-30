@@ -30,5 +30,5 @@ A lighthearted app that displays a random fortune each time a user "cracks" the 
 
 Thanks for visiting my portfolio and taking the time to explore my work!
 
--[Github Repository](https://github.com/bbylfevmp/Final-Project)
--[Live Website](https://bbylfevmp.github.io/Final-Project/)
+- [Github Repository](https://github.com/bbylfevmp/Final-Project)
+- [Live Website](https://bbylfevmp.github.io/Final-Project/)
