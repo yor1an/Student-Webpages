@@ -1,122 +1,69 @@
 body {
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-  background-color: #fff0f5;
-  color: #333;
-  font-size: 1.1rem;
+    font-family: 'Poppins', sans-serif;
+    background-color: #fdf2f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
-header {
-  background-color: #ffe4ec;
-  padding: 2rem;
-  text-align: center;
-  font-size: 2.5rem;
-  font-weight: 600;
-  color: #333;
+.quiz-container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    border: 2px solid #ff66b2;
 }
 
-main {
-  padding: 2rem;
-  max-width: 900px;
-  margin: 2rem auto;
-  background-color: #ffffff;
-  border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #ff66b2;
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
-.about h2 {
-  font-size: 2rem;
-  color: #cc3366;
-  margin-bottom: 1rem;
-  text-align: center;
+.question {
+    text-align: left;
+    margin-bottom: 20px;
 }
 
-
-.about p {
-  margin-bottom: 2rem;
-  line-height: 1.8;
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #ff66b2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
 }
 
-.extra-info {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
+button:hover {
+    background-color: #ff3385;
 }
 
-.extra-info div {
-  flex: 1 1 250px;
+.result {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #ff66b2;
+    font-family: 'Poppins', sans-serif;
 }
 
-.extra-info h3 {
-  color: #cc3366;
-  margin-bottom: 0.5rem;
+#startScreen button {
+    background-color: #ff66b2;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
 }
 
-.extra-info ul {
-  padding-left: 1.2rem;
-}
-
-.extra-info li {
-  margin-bottom: 0.4rem;
-}
-
-#projects {
-  margin-top: 3rem;
-  text-align: center;
-}
-
-#projects h2 {
-  color: #cc3366;
-  font-size: 2rem;
-  margin-bottom: 1.5rem;
-}
-
-.project-links {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-.project-links a {
-  display: inline-block;
-  padding: 0.8rem 1.5rem;
-  background-color: #ffb6c1;
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  transition: background-color 0.3s ease;
-  font-weight: 500;
-}
-
-.project-links a:hover {
-  background-color: #ff6f91;
-}
-.songs {
-  margin-top: 3rem;
-}
-
-.songs h2 {
-  font-size: 1.4rem;
-  color: #cc3366;
-  margin-bottom: 1rem;
-}
-
-.songs ul {
-  padding-left: 1rem;
-  font-size: 1rem;
-  line-height: 1.8; 
-}
-
-.songs li {
-  margin-bottom: 0.4rem;
-}
-
-.songs a {
-  color: #cc3366;
-  text-decoration: none;
-}
-
-.songs a:hover {
-  text-decoration: underline;
+#startScreen button:hover {
+    background-color: #ff3385;
 }
