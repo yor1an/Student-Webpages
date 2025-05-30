@@ -1,7 +1,7 @@
 # Matthew G. - Final Portfolio Project
 
 ## About Me
-Hi, my name is Matthew Gutierrez. I am a highschool sophmore who is curretly learning the core basics of computer science and programing. During my time in AP Computer Science Principles, I have learned the basics of C++, Java, CSS, Html, and solving somplex challenges.
+Hi, my name is Matthew Gutierrez. I am a highschool Junior who is curretly learning the core basics of computer science and programing. During my time in AP Computer Science Principles, I have learned the basics of C++, Java, CSS, Html, and solving somplex challenges.
 
 ## About the Project
 
